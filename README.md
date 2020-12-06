@@ -12,7 +12,7 @@
 
 • termux-setup-storage
 
-• git clone https://github.com/Eriel-Alyaz/SCAutoClaim_Kuis-Berhadiah2
+• git clone https://github.com/EA-Channel/SCAutoClaim_Kuis-Berhadiah2
 
 • ls
 
